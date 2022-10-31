@@ -1,4 +1,5 @@
-# [Segtree.sh](src/segtree.sh)
+<h1><a href="src/segtree.sh"><span style="color: black">S</span><span style="color: red">egtree.sh</span></a></h1>
+
 Segtree.sh is a Bash library providing a [Segment Tree](https://en.wikipedia.org/wiki/Segment_tree) data structure.
 
 The binary operation is the sum operation.
