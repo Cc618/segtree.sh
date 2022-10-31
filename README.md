@@ -1,4 +1,9 @@
-<h1><a href="src/segtree.sh"><span style="color: black">S</span><span style="color: red">egtree.sh</span></a></h1>
+<!-- <h1><a href="src/segtree.sh"><span style="color: black">S</span><span style="color: red">egtree.sh</span></a></h1> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100% 18" fill="none">
+    <text x="0" y="15" fill="#ff0000">S</text>
+    <text x="12" y="15" fill="#000000">eegtree.sh</text>
+</svg>
 
 Segtree.sh is a Bash library providing a [Segment Tree](https://en.wikipedia.org/wiki/Segment_tree) data structure.
 
